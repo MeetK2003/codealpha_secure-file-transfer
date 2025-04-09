@@ -1,4 +1,4 @@
-# codealpha_ tak to create secure-file-transfer
+# codealpha_ task to create secure-file-transfer
 
 Task of CodeAlpha about making Secure File Transfer Application 
 
